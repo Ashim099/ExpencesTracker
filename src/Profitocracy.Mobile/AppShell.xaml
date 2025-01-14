@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Shell xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+       xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+       xmlns:resx="clr-namespace:ExpencesTracker.Mobile.Resources.Strings"
+       xmlns:transactions="clr-namespace:ExpencesTracker.Mobile.Views.Transactions"
+       xmlns:home="clr-namespace:ExpencesTracker.Mobile.Views.Home"
+       xmlns:settings="clr-namespace:ExpencesTracker.Mobile.Views.Settings"
+       x:Class="ExpencesTracker.Mobile.AppShell"
+       Loaded="AppShell_OnLoaded">
+    <TabBar>
+        <Tab Title="{x:Static resx:AppResources.Home}" Icon="home.png">
+            <ShellContent ContentTemplate="{DataTemplate home:HomePage}"/>
+        </Tab>
+        <Tab Title="{x:Static resx:AppResources.Transactions}" Icon="transactions.png">
+            <ShellContent ContentTemplate="{DataTemplate transactions:TransactionsPage}"/>
+        </Tab>
+        <Tab Title="{x:Static resx:AppResources.Settings}" Icon="settings.png">
+            <ShellContent ContentTemplate="{DataTemplate settings:SettingsPage}"/>
+        </Tab>
+    </TabBar>
+</Shell>

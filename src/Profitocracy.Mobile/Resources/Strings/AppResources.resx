@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+            
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <data name="CreateFirstProfile" xml:space="preserve">
+        <value>Create first profile</value>
+    </data>
+    <data name="Home" xml:space="preserve">
+        <value>Home</value>
+    </data>
+    <data name="Balance" xml:space="preserve">
+        <value>Balance</value>
+    </data>
+    <data name="DailyAmounts" xml:space="preserve">
+        <value>Daily amounts</value>
+    </data>
+    <data name="FromInitialBalance" xml:space="preserve">
+        <value>From initial balance</value>
+    </data>
+    <data name="FromActualBalance" xml:space="preserve">
+        <value>From actual balance</value>
+    </data>
+    <data name="SpendingTypes" xml:space="preserve">
+        <value>Spending types</value>
+    </data>
+    <data name="Main" xml:space="preserve">
+        <value>Main</value>
+    </data>
+    <data name="Secondary" xml:space="preserve">
+        <value>Secondary</value>
+    </data>
+    <data name="Saved" xml:space="preserve">
+        <value>Saved</value>
+    </data>
+    <data name="Categories" xml:space="preserve">
+        <value>Categories</value>
+    </data>
+    <data name="ThereIsNoCategories" xml:space="preserve">
+        <value>There is no categories</value>
+    </data>
+    <data name="SavedBalance" xml:space="preserve">
+        <value>Saved</value>
+    </data>
+    <data name="ProfileName" xml:space="preserve">
+        <value>Profile name</value>
+    </data>
+    <data name="InitialBalance" xml:space="preserve">
+        <value>Initial balance</value>
+    </data>
+    <data name="GoToExpenses" xml:space="preserve">
+        <value>Go to expenses</value>
+    </data>
+    <data name="Transactions" xml:space="preserve">
+        <value>Transactions</value>
+    </data>
+    <data name="Income" xml:space="preserve">
+        <value>Income</value>
+    </data>
+    <data name="Settings" xml:space="preserve">
+        <value>Settings</value>
+    </data>
+    <data name="AddNewTransaction" xml:space="preserve">
+        <value>Add new transaction</value>
+    </data>
+    <data name="Expense" xml:space="preserve">
+        <value>Expense</value>
+    </data>
+    <data name="Category" xml:space="preserve">
+        <value>Category</value>
+    </data>
+    <data name="Amount" xml:space="preserve">
+        <value>Amount</value>
+    </data>
+    <data name="Description" xml:space="preserve">
+        <value>Description</value>
+    </data>
+    <data name="Date" xml:space="preserve">
+        <value>Date</value>
+    </data>
+    <data name="SaveTransaction" xml:space="preserve">
+        <value>Save transaction</value>
+    </data>
+    <data name="Application" xml:space="preserve">
+        <value>Application</value>
+    </data>
+    <data name="General" xml:space="preserve">
+        <value>General</value>
+    </data>
+    <data name="Profiles" xml:space="preserve">
+        <value>Profiles</value>
+    </data>
+    <data name="Theme" xml:space="preserve">
+        <value>Theme</value>
+    </data>
+    <data name="Language" xml:space="preserve">
+        <value>Language</value>
+    </data>
+    <data name="NoLimits" xml:space="preserve">
+        <value>No limits</value>
+    </data>
+    <data name="AddNewCategory" xml:space="preserve">
+        <value>Add new category</value>
+    </data>
+    <data name="CategoryName" xml:space="preserve">
+        <value>Category name</value>
+    </data>
+    <data name="SpecifyPlannedAmount" xml:space="preserve">
+        <value>Specify planned amount</value>
+    </data>
+    <data name="PlannedAmount" xml:space="preserve">
+        <value>Planned amount</value>
+    </data>
+    <data name="SaveCategory" xml:space="preserve">
+        <value>Save category</value>
+    </data>
+    <data name="DateRange" xml:space="preserve">
+        <value>Filter by date</value>
+    </data>
+    <data name="LightThemeText" xml:space="preserve">
+        <value>Light</value>
+    </data>
+    <data name="DarkThemeText" xml:space="preserve">
+        <value>Dark</value>
+    </data>
+    <data name="SystemThemeText" xml:space="preserve">
+        <value>System</value>
+    </data>
+    <data name="EnglishLanguage" xml:space="preserve">
+        <value>English</value>
+    </data>
+    <data name="RussianLanguage" xml:space="preserve">
+        <value>Russian</value>
+    </data>
+    <data name="ChangeLanguageAlertTitle" xml:space="preserve">
+        <value>Warning</value>
+    </data>
+    <data name="ChangeLanguageAlertMessage" xml:space="preserve">
+        <value>To make the changes take effect, you need to restart the application.</value>
+    </data>
+    <data name="ChangeLanguageAlertOk" xml:space="preserve">
+        <value>Ok</value>
+    </data>
+    <data name="ErrorAlert_Title" xml:space="preserve">
+        <value>Error</value>
+    </data>
+    <data name="ErrorAlert_Ok" xml:space="preserve">
+        <value>OK</value>
+    </data>
+    <data name="ErrorAlert_Description" xml:space="preserve">
+        <value>An error occurred</value>
+    </data>
+    <data name="ErrorAlert_GetCategoryInfo" xml:space="preserve">
+        <value>Cannot get category info</value>
+    </data>
+    <data name="ErrorAlert_ShowFilteredTransactions" xml:space="preserve">
+        <value>Cannot show filtered transactions</value>
+    </data>
+    <data name="ErrorAlert_OpenAddCategoryPage" xml:space="preserve">
+        <value>Cannot open category adding page</value>
+    </data>
+    <data name="ErrorAlert_OpenAddTransactionPage" xml:space="preserve">
+        <value>Cannot open transaction adding page</value>
+    </data>
+    <data name="ErrorAlert_InternalErrorTryAgain" xml:space="preserve">
+        <value>An internal error occurred. Try again</value>
+    </data>
+    <data name="ErrorAlert_FindTransactionToDelete" xml:space="preserve">
+        <value>Cannot find transaction to delete</value>
+    </data>
+    <data name="CommonError_PlannedAmountNumber" xml:space="preserve">
+        <value>Planned amount must be a number</value>
+    </data>
+    <data name="CommonError_GetCurrentProfile" xml:space="preserve">
+        <value>Cannot get current profile</value>
+    </data>
+    <data name="CommonError_GetSettings" xml:space="preserve">
+        <value>Cannot find settings</value>
+    </data>
+    <data name="CommonError_BalanceNumber" xml:space="preserve">
+        <value>Balance must be a number</value>
+    </data>
+    <data name="AddTransaction_NoneCategory" xml:space="preserve">
+        <value>None</value>
+    </data>
+    <data name="CommonError_AmountNumber" xml:space="preserve">
+        <value>Amount must be a number</value>
+    </data>
+    <data name="CommonError_TransactionType" xml:space="preserve">
+        <value>Invalid transaction type</value>
+    </data>
+</root>
